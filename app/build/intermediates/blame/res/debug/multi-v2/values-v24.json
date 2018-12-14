@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\taruc\\Desktop\\SimpleAsyncTask\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\FGN\\Desktop\\lab9\\SimpleAsyncTask\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\taruc\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\8b1f6f4d2bca88c88ef2918e61e707af\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\FGN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\6afd4c6c7c4c8158d7d340d93f06e393\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\taruc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7fcbeca143f0314e398469d2a6fb1ca7\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\FGN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4eadb7431c0d78a4a529a464386d352d\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
